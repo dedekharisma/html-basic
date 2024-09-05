@@ -1,6 +1,6 @@
-# My Journey into HTML, CSS, and JavaScript
+# My Front End Journey: HTML Basic
 
-Welcome to my personal learning repository! This space is dedicated to documenting my progress as I dive into the world of web development, focusing on HTML, CSS, and JavaScript.
+Welcome to the first step in my <a href="https://github.com/dedekharisma/my-frontend-journey">front-end development journey</a>! This repository is dedicated to learning the fundamentals of **HTML (HyperText Markup Language)**—the backbone of every webpage on the internet.
 
 ## What You'll Find Here
 
