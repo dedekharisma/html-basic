@@ -5,8 +5,6 @@ Welcome to the first step in my <a href="https://github.com/dedekharisma/my-fron
 ## What You'll Find Here
 
 - **HTML**: The foundation of any web page. I'm exploring how to structure content, use semantic elements, and build the skeleton of a web page.
-- **CSS**: Styling is where the magic happens! I'm learning how to bring life to my web pages with colors, layouts, responsiveness, and some basic animations.
-- **JavaScript**: Adding interactivity to my projects. This includes understanding the DOM, handling events, and making web pages dynamic and engaging.
 
 ## Repository Structure
 - `README.md`: You're reading it! This file is here to explain what I'm doing and why.
